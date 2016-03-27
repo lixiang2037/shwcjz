@@ -81,19 +81,7 @@
 	</div>
 	<!--首页banner结束-->
 	<!-- 供应产品 开始 -->
-	<!-- <div class="recompro loading">
-		<div class="proPicTit">热销产品</div>
-	    <div class="proPic">
-			<div class="proTit" style="">
-				<span class="more"><a href="#"  target='_blank'>更多 &gt;&gt;</a></span></div>
-		   <ul>
-			   	<li>
-			   		
-			   	</li>
-		   </ul>
-    	</div>
-	    
-	</div> -->
+	
 	<div class="recompro">
 		<div class="proPicTit">
 			<span>热销产品</span>
